@@ -1,3 +1,11 @@
 .usersList {
   padding: 0;
+  margin: 15px auto;
+  list-style-type: none;
+  max-width: 600px;
+}
+
+.usersList li {
+  border-top: 2px solid grey;
+  padding: 20px;
 }

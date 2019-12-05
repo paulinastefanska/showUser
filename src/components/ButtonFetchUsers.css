@@ -1,0 +1,14 @@
+.buttonShow {
+  background-color: inherit;
+  color: black;
+  border: 2px solid grey;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: 0.2s ease;
+}
+
+.buttonShow:hover {
+  background-color: grey;
+  color: white;
+}
