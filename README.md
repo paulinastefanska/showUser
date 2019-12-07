@@ -1,3 +1,7 @@
+# Show User App - See [DEMO](https://paulinastefanska.github.io/showUser)
+
+### Create-React-App + fetch API exercise
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
